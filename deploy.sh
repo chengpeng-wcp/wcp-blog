@@ -21,5 +21,5 @@
    
    # 部署到 https://<USERNAME>.github.io/<REPO>
    # 将下面这行替换成自己的仓库地址
-   git push -f git@github.com/chengpeng-wcp/wcp-blog.git master:gh-pages   
+   git push -f git@github.com/chengpeng-wcp/wcp-blog.git master   
    cd -

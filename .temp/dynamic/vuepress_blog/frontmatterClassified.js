@@ -8,8 +8,8 @@ export default {
       "scope": "tags",
       "path": "/tag/CSS/",
       "pageKeys": [
-        "v-3262d474",
-        "v-1336e3a4"
+        "v-1336e3a4",
+        "v-3262d474"
       ]
     },
     "Array": {
@@ -34,8 +34,16 @@ export default {
       "path": "/tag/ES6/",
       "pageKeys": [
         "v-6e8ab50c",
-        "v-7c3bd6e0",
-        "v-065b6340"
+        "v-065b6340",
+        "v-7c3bd6e0"
+      ]
+    },
+    "javaScript": {
+      "key": "javaScript",
+      "scope": "tags",
+      "path": "/tag/javaScript/",
+      "pageKeys": [
+        "v-08d9746c"
       ]
     },
     "继承": {
@@ -47,12 +55,12 @@ export default {
         "v-5dac334e"
       ]
     },
-    "javaScript": {
-      "key": "javaScript",
+    "类型转换": {
+      "key": "类型转换",
       "scope": "tags",
-      "path": "/tag/javaScript/",
+      "path": "/tag/类型转换/",
       "pageKeys": [
-        "v-08d9746c"
+        "v-4b62b534"
       ]
     },
     "深浅拷贝": {
@@ -61,14 +69,6 @@ export default {
       "path": "/tag/深浅拷贝/",
       "pageKeys": [
         "v-71f3b530"
-      ]
-    },
-    "类型转换": {
-      "key": "类型转换",
-      "scope": "tags",
-      "path": "/tag/类型转换/",
-      "pageKeys": [
-        "v-4b62b534"
       ]
     },
     "八股文": {
@@ -105,6 +105,14 @@ export default {
         "v-696e62d8"
       ]
     },
+    "面试题": {
+      "key": "面试题",
+      "scope": "tags",
+      "path": "/tag/面试题/",
+      "pageKeys": [
+        "v-a2f10558"
+      ]
+    },
     "扁平化": {
       "key": "扁平化",
       "scope": "tags",
@@ -120,14 +128,6 @@ export default {
       "pageKeys": [
         "v-7812ddef"
       ]
-    },
-    "面试题": {
-      "key": "面试题",
-      "scope": "tags",
-      "path": "/tag/面试题/",
-      "pageKeys": [
-        "v-a2f10558"
-      ]
     }
   },
   "categories": {
@@ -136,9 +136,9 @@ export default {
       "scope": "categories",
       "path": "/categories/Byte/",
       "pageKeys": [
-        "v-3262d474",
-        "v-098c0b94",
         "v-1336e3a4",
+        "v-098c0b94",
+        "v-3262d474",
         "v-51665efc"
       ]
     },
@@ -148,8 +148,8 @@ export default {
       "path": "/categories/ES6/",
       "pageKeys": [
         "v-6e8ab50c",
-        "v-7c3bd6e0",
-        "v-065b6340"
+        "v-065b6340",
+        "v-7c3bd6e0"
       ]
     },
     "JavaScript": {
@@ -157,12 +157,12 @@ export default {
       "scope": "categories",
       "path": "/categories/JavaScript/",
       "pageKeys": [
-        "v-c99da4d8",
         "v-08d9746c",
-        "v-71f3b530",
+        "v-c99da4d8",
         "v-4b62b534",
-        "v-5dac334e",
+        "v-71f3b530",
         "v-1fd8e2d4",
+        "v-5dac334e",
         "v-360c01e4",
         "v-54f4db98"
       ]
@@ -190,8 +190,8 @@ export default {
       "path": "/categories/andition/",
       "pageKeys": [
         "v-696e62d8",
-        "v-29481c74",
-        "v-a2f10558"
+        "v-a2f10558",
+        "v-29481c74"
       ]
     }
   },
