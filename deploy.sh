@@ -4,10 +4,10 @@
    set -e
    
    # 构建
-   npm run build
+   npm run docs:build
    
    # cd 到构建输出的目录下
-   cd dist
+   cd docs/.vuepress/dist
    
    # 部署到自定义域域名
    # echo 'www.example.com' > CNAME
@@ -21,5 +21,5 @@
    
    # 部署到 https://<USERNAME>.github.io/<REPO>
    # 将下面这行替换成自己的仓库地址
-   git push -f git@github.com/chengpeng-wcp/wcp-blog.git master   
+   git push -f git@github.com/chengpeng-wcp/wcp-blog.git master:gh-pages   
    cd -
