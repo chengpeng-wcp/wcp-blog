@@ -1,1 +1,1 @@
-export { default } from "D:\\code\\wang-blog\\wcp-blog\\node_modules\\@vuepress-reco\\vuepress-plugin-back-to-top\\bin\\enhanceAppFile.js"
+export { default } from "D:\\code\\wcp-blog\\node_modules\\@vuepress-reco\\vuepress-plugin-back-to-top\\bin\\enhanceAppFile.js"

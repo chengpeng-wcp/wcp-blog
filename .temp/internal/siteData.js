@@ -24,8 +24,10 @@ export const siteData = {
       },
       "regularPath": "/",
       "relativePath": "README.md",
-      "key": "v-56e9ac57",
-      "path": "/"
+      "key": "v-5e34fa67",
+      "path": "/",
+      "lastUpdated": "2024/11/17 下午11:09:34",
+      "lastUpdatedTimestamp": 1731856174000
     },
     {
       "title": "高级CSS属性实现的瀑布流的三种方法",
@@ -44,7 +46,7 @@ export const siteData = {
       },
       "regularPath": "/handbook/Byte/pubuliu.html",
       "relativePath": "handbook/Byte/pubuliu.md",
-      "key": "v-7ccb1084",
+      "key": "v-3262d474",
       "path": "/handbook/Byte/pubuliu.html",
       "headers": [
         {
@@ -72,44 +74,9 @@ export const siteData = {
           "title": "结语",
           "slug": "结语"
         }
-      ]
-    },
-    {
-      "title": "对象各种好用的API手写",
-      "frontmatter": {
-        "title": "对象各种好用的API手写",
-        "date": "2022-12-07T00:00:00.000Z",
-        "author": "Wang",
-        "tags": [
-          "Object"
-        ],
-        "categories": [
-          "Byte"
-        ],
-        "isShowComments": true,
-        "subSidebar": "auto"
-      },
-      "regularPath": "/handbook/Byte/object.html",
-      "relativePath": "handbook/Byte/object.md",
-      "key": "v-c8965edc",
-      "path": "/handbook/Byte/object.html",
-      "headers": [
-        {
-          "level": 2,
-          "title": "3. Object.fromEntries()",
-          "slug": "_3-object-fromentries"
-        },
-        {
-          "level": 2,
-          "title": "4. Object.keys()",
-          "slug": "_4-object-keys"
-        },
-        {
-          "level": 2,
-          "title": "5. Object.values()",
-          "slug": "_5-object-values"
-        }
-      ]
+      ],
+      "lastUpdated": "2024/11/17 下午11:09:34",
+      "lastUpdatedTimestamp": 1731856174000
     },
     {
       "title": "数组各种好用API的手写",
@@ -128,7 +95,7 @@ export const siteData = {
       },
       "regularPath": "/handbook/Byte/array.html",
       "relativePath": "handbook/Byte/array.md",
-      "key": "v-e5d660b8",
+      "key": "v-098c0b94",
       "path": "/handbook/Byte/array.html",
       "headers": [
         {
@@ -316,7 +283,9 @@ export const siteData = {
           "title": "2.fill()方法的手写实现",
           "slug": "_2-fill-方法的手写实现"
         }
-      ]
+      ],
+      "lastUpdated": "2024/11/17 下午11:09:34",
+      "lastUpdatedTimestamp": 1731856174000
     },
     {
       "title": "CSS经典三列布局—圣杯布局与双飞翼布局",
@@ -335,7 +304,7 @@ export const siteData = {
       },
       "regularPath": "/handbook/Byte/sanleibuju.html",
       "relativePath": "handbook/Byte/sanleibuju.md",
-      "key": "v-33e5d3b4",
+      "key": "v-1336e3a4",
       "path": "/handbook/Byte/sanleibuju.html",
       "headers": [
         {
@@ -383,7 +352,97 @@ export const siteData = {
           "title": "小结",
           "slug": "小结"
         }
-      ]
+      ],
+      "lastUpdated": "2024/11/17 下午11:09:34",
+      "lastUpdatedTimestamp": 1731856174000
+    },
+    {
+      "title": "对象各种好用的API手写",
+      "frontmatter": {
+        "title": "对象各种好用的API手写",
+        "date": "2022-12-07T00:00:00.000Z",
+        "author": "Wang",
+        "tags": [
+          "Object"
+        ],
+        "categories": [
+          "Byte"
+        ],
+        "isShowComments": true,
+        "subSidebar": "auto"
+      },
+      "regularPath": "/handbook/Byte/object.html",
+      "relativePath": "handbook/Byte/object.md",
+      "key": "v-51665efc",
+      "path": "/handbook/Byte/object.html",
+      "headers": [
+        {
+          "level": 2,
+          "title": "3. Object.fromEntries()",
+          "slug": "_3-object-fromentries"
+        },
+        {
+          "level": 2,
+          "title": "4. Object.keys()",
+          "slug": "_4-object-keys"
+        },
+        {
+          "level": 2,
+          "title": "5. Object.values()",
+          "slug": "_5-object-values"
+        }
+      ],
+      "lastUpdated": "2024/11/17 下午11:09:34",
+      "lastUpdatedTimestamp": 1731856174000
+    },
+    {
+      "title": "ES6——promise对象",
+      "frontmatter": {
+        "title": "ES6——promise对象",
+        "date": "2022-07-28T00:00:00.000Z",
+        "author": "Wang",
+        "tags": [
+          "ES6"
+        ],
+        "categories": [
+          "ES6"
+        ],
+        "isShowComments": true,
+        "subSidebar": "auto"
+      },
+      "regularPath": "/handbook/ES6/async-await.html",
+      "relativePath": "handbook/ES6/async-await.md",
+      "key": "v-6e8ab50c",
+      "path": "/handbook/ES6/async-await.html",
+      "headers": [
+        {
+          "level": 2,
+          "title": "前言",
+          "slug": "前言"
+        },
+        {
+          "level": 2,
+          "title": "asnyc-await",
+          "slug": "asnyc-await"
+        },
+        {
+          "level": 3,
+          "title": "asnyc",
+          "slug": "asnyc"
+        },
+        {
+          "level": 3,
+          "title": "await",
+          "slug": "await"
+        },
+        {
+          "level": 2,
+          "title": "结语",
+          "slug": "结语"
+        }
+      ],
+      "lastUpdated": "2024/11/17 下午11:09:34",
+      "lastUpdatedTimestamp": 1731856174000
     },
     {
       "title": "简洁明了的循环写法 for in-of",
@@ -402,7 +461,7 @@ export const siteData = {
       },
       "regularPath": "/handbook/ES6/for-in-of.html",
       "relativePath": "handbook/ES6/for-in-of.md",
-      "key": "v-64f56220",
+      "key": "v-7c3bd6e0",
       "path": "/handbook/ES6/for-in-of.html",
       "headers": [
         {
@@ -435,54 +494,9 @@ export const siteData = {
           "title": "区别",
           "slug": "区别"
         }
-      ]
-    },
-    {
-      "title": "ES6——promise对象",
-      "frontmatter": {
-        "title": "ES6——promise对象",
-        "date": "2022-07-28T00:00:00.000Z",
-        "author": "Wang",
-        "tags": [
-          "ES6"
-        ],
-        "categories": [
-          "ES6"
-        ],
-        "isShowComments": true,
-        "subSidebar": "auto"
-      },
-      "regularPath": "/handbook/ES6/async-await.html",
-      "relativePath": "handbook/ES6/async-await.md",
-      "key": "v-e18cb5c8",
-      "path": "/handbook/ES6/async-await.html",
-      "headers": [
-        {
-          "level": 2,
-          "title": "前言",
-          "slug": "前言"
-        },
-        {
-          "level": 2,
-          "title": "asnyc-await",
-          "slug": "asnyc-await"
-        },
-        {
-          "level": 3,
-          "title": "asnyc",
-          "slug": "asnyc"
-        },
-        {
-          "level": 3,
-          "title": "await",
-          "slug": "await"
-        },
-        {
-          "level": 2,
-          "title": "结语",
-          "slug": "结语"
-        }
-      ]
+      ],
+      "lastUpdated": "2024/11/17 下午11:09:34",
+      "lastUpdatedTimestamp": 1731856174000
     },
     {
       "title": "ES6——promise对象",
@@ -501,7 +515,7 @@ export const siteData = {
       },
       "regularPath": "/handbook/ES6/promise.html",
       "relativePath": "handbook/ES6/promise.md",
-      "key": "v-7d8b6320",
+      "key": "v-065b6340",
       "path": "/handbook/ES6/promise.html",
       "headers": [
         {
@@ -524,7 +538,63 @@ export const siteData = {
           "title": "Promise的应用场景和不足之处",
           "slug": "promise的应用场景和不足之处"
         }
-      ]
+      ],
+      "lastUpdated": "2024/11/17 下午11:09:34",
+      "lastUpdatedTimestamp": 1731856174000
+    },
+    {
+      "title": "JS语言的一座小山坡——‘this’",
+      "frontmatter": {
+        "title": "JS语言的一座小山坡——‘this’",
+        "date": "2022-07-10T00:00:00.000Z",
+        "author": "Wang",
+        "tags": [
+          "继承"
+        ],
+        "categories": [
+          "JavaScript"
+        ],
+        "isShowComments": true,
+        "subSidebar": "auto"
+      },
+      "regularPath": "/handbook/JavaScript/jicheng.html",
+      "relativePath": "handbook/JavaScript/jicheng.md",
+      "key": "v-c99da4d8",
+      "path": "/handbook/JavaScript/jicheng.html",
+      "headers": [
+        {
+          "level": 2,
+          "title": "2. 原型链继承",
+          "slug": "_2-原型链继承"
+        },
+        {
+          "level": 2,
+          "title": "3. 经典继承(伪造对象）",
+          "slug": "_3-经典继承-伪造对象"
+        },
+        {
+          "level": 2,
+          "title": "4. 组合继承（伪经典继承）",
+          "slug": "_4-组合继承-伪经典继承"
+        },
+        {
+          "level": 2,
+          "title": "5. 原型式继承",
+          "slug": "_5-原型式继承"
+        },
+        {
+          "level": 2,
+          "title": "6. 寄生式继承",
+          "slug": "_6-寄生式继承"
+        },
+        {
+          "level": 2,
+          "title": "7. 寄生组合式继承",
+          "slug": "_7-寄生组合式继承"
+        }
+      ],
+      "lastUpdated": "2024/11/17 下午11:09:34",
+      "lastUpdatedTimestamp": 1731856174000
     },
     {
       "title": "来手撸一个简化版Ajax",
@@ -543,7 +613,7 @@ export const siteData = {
       },
       "regularPath": "/handbook/JavaScript/ajax.html",
       "relativePath": "handbook/JavaScript/ajax.md",
-      "key": "v-1c4235da",
+      "key": "v-08d9746c",
       "path": "/handbook/JavaScript/ajax.html",
       "headers": [
         {
@@ -586,7 +656,9 @@ export const siteData = {
           "title": "手撸一个简化版Ajax",
           "slug": "手撸一个简化版ajax"
         }
-      ]
+      ],
+      "lastUpdated": "2024/11/17 下午11:09:34",
+      "lastUpdatedTimestamp": 1731856174000
     },
     {
       "title": "深or浅拷贝，带你从入门到精通",
@@ -605,7 +677,7 @@ export const siteData = {
       },
       "regularPath": "/handbook/JavaScript/kaobei.html",
       "relativePath": "handbook/JavaScript/kaobei.md",
-      "key": "v-7ae7c580",
+      "key": "v-71f3b530",
       "path": "/handbook/JavaScript/kaobei.html",
       "headers": [
         {
@@ -663,7 +735,9 @@ export const siteData = {
           "title": "2.实现",
           "slug": "_2-实现"
         }
-      ]
+      ],
+      "lastUpdated": "2024/11/17 下午11:09:34",
+      "lastUpdatedTimestamp": 1731856174000
     },
     {
       "title": "解析JS中的类型转换",
@@ -682,7 +756,7 @@ export const siteData = {
       },
       "regularPath": "/handbook/JavaScript/leixingzhuanghuan.html",
       "relativePath": "handbook/JavaScript/leixingzhuanghuan.md",
-      "key": "v-6356b144",
+      "key": "v-4b62b534",
       "path": "/handbook/JavaScript/leixingzhuanghuan.html",
       "headers": [
         {
@@ -715,7 +789,9 @@ export const siteData = {
           "title": "二元运算符",
           "slug": "二元运算符"
         }
-      ]
+      ],
+      "lastUpdated": "2024/11/17 下午11:09:34",
+      "lastUpdatedTimestamp": 1731856174000
     },
     {
       "title": "JavaScript的6种常用继承方式",
@@ -734,7 +810,7 @@ export const siteData = {
       },
       "regularPath": "/handbook/JavaScript/this.html",
       "relativePath": "handbook/JavaScript/this.md",
-      "key": "v-7e5b235e",
+      "key": "v-5dac334e",
       "path": "/handbook/JavaScript/this.html",
       "headers": [
         {
@@ -752,7 +828,9 @@ export const siteData = {
           "title": "小结",
           "slug": "小结"
         }
-      ]
+      ],
+      "lastUpdated": "2024/11/17 下午11:09:34",
+      "lastUpdatedTimestamp": 1731856174000
     },
     {
       "title": "你会写显示绑定方法吗？",
@@ -771,17 +849,19 @@ export const siteData = {
       },
       "regularPath": "/handbook/JavaScript/xianshibangding.html",
       "relativePath": "handbook/JavaScript/xianshibangding.md",
-      "key": "v-e6653238",
-      "path": "/handbook/JavaScript/xianshibangding.html"
+      "key": "v-1fd8e2d4",
+      "path": "/handbook/JavaScript/xianshibangding.html",
+      "lastUpdated": "2024/11/17 下午11:09:34",
+      "lastUpdatedTimestamp": 1731856174000
     },
     {
-      "title": "JS语言的一座小山坡——‘this’",
+      "title": "快速理解JS中原型+原型链",
       "frontmatter": {
-        "title": "JS语言的一座小山坡——‘this’",
-        "date": "2022-07-10T00:00:00.000Z",
+        "title": "快速理解JS中原型+原型链",
+        "date": "2022-07-19T00:00:00.000Z",
         "author": "Wang",
         "tags": [
-          "继承"
+          "八股文"
         ],
         "categories": [
           "JavaScript"
@@ -789,42 +869,29 @@ export const siteData = {
         "isShowComments": true,
         "subSidebar": "auto"
       },
-      "regularPath": "/handbook/JavaScript/jicheng.html",
-      "relativePath": "handbook/JavaScript/jicheng.md",
-      "key": "v-274fd1a4",
-      "path": "/handbook/JavaScript/jicheng.html",
+      "regularPath": "/handbook/JavaScript/yuanxing.html",
+      "relativePath": "handbook/JavaScript/yuanxing.md",
+      "key": "v-360c01e4",
+      "path": "/handbook/JavaScript/yuanxing.html",
       "headers": [
         {
           "level": 2,
-          "title": "2. 原型链继承",
-          "slug": "_2-原型链继承"
+          "title": "前言",
+          "slug": "前言"
         },
         {
           "level": 2,
-          "title": "3. 经典继承(伪造对象）",
-          "slug": "_3-经典继承-伪造对象"
+          "title": "原型",
+          "slug": "原型"
         },
         {
           "level": 2,
-          "title": "4. 组合继承（伪经典继承）",
-          "slug": "_4-组合继承-伪经典继承"
-        },
-        {
-          "level": 2,
-          "title": "5. 原型式继承",
-          "slug": "_5-原型式继承"
-        },
-        {
-          "level": 2,
-          "title": "6. 寄生式继承",
-          "slug": "_6-寄生式继承"
-        },
-        {
-          "level": 2,
-          "title": "7. 寄生组合式继承",
-          "slug": "_7-寄生组合式继承"
+          "title": "原型链",
+          "slug": "原型链"
         }
-      ]
+      ],
+      "lastUpdated": "2024/11/17 下午11:09:34",
+      "lastUpdatedTimestamp": 1731856174000
     },
     {
       "title": "小白必看——作用域与作用域链",
@@ -843,7 +910,7 @@ export const siteData = {
       },
       "regularPath": "/handbook/JavaScript/zuoyongyu.html",
       "relativePath": "handbook/JavaScript/zuoyongyu.md",
-      "key": "v-2a93ae44",
+      "key": "v-54f4db98",
       "path": "/handbook/JavaScript/zuoyongyu.html",
       "headers": [
         {
@@ -881,44 +948,9 @@ export const siteData = {
           "title": "总结",
           "slug": "总结"
         }
-      ]
-    },
-    {
-      "title": "快速理解JS中原型+原型链",
-      "frontmatter": {
-        "title": "快速理解JS中原型+原型链",
-        "date": "2022-07-19T00:00:00.000Z",
-        "author": "Wang",
-        "tags": [
-          "八股文"
-        ],
-        "categories": [
-          "JavaScript"
-        ],
-        "isShowComments": true,
-        "subSidebar": "auto"
-      },
-      "regularPath": "/handbook/JavaScript/yuanxing.html",
-      "relativePath": "handbook/JavaScript/yuanxing.md",
-      "key": "v-3511e1f4",
-      "path": "/handbook/JavaScript/yuanxing.html",
-      "headers": [
-        {
-          "level": 2,
-          "title": "前言",
-          "slug": "前言"
-        },
-        {
-          "level": 2,
-          "title": "原型",
-          "slug": "原型"
-        },
-        {
-          "level": 2,
-          "title": "原型链",
-          "slug": "原型链"
-        }
-      ]
+      ],
+      "lastUpdated": "2024/11/17 下午11:09:34",
+      "lastUpdatedTimestamp": 1731856174000
     },
     {
       "title": "最常见解决跨域的三种方式",
@@ -937,7 +969,7 @@ export const siteData = {
       },
       "regularPath": "/handbook/Node/kuayu.html",
       "relativePath": "handbook/Node/kuayu.md",
-      "key": "v-6ad44a24",
+      "key": "v-3168f3d8",
       "path": "/handbook/Node/kuayu.html",
       "headers": [
         {
@@ -955,7 +987,121 @@ export const siteData = {
           "title": "Node代理",
           "slug": "node代理"
         }
-      ]
+      ],
+      "lastUpdated": "2024/11/17 下午11:09:34",
+      "lastUpdatedTimestamp": 1731856174000
+    },
+    {
+      "title": "你知道Vue中router实现原理吗?",
+      "frontmatter": {
+        "title": "你知道Vue中router实现原理吗?",
+        "date": "2022-10-10T00:00:00.000Z",
+        "author": "Wang",
+        "tags": [
+          "router"
+        ],
+        "categories": [
+          "Vue"
+        ],
+        "isShowComments": true,
+        "subSidebar": "auto"
+      },
+      "regularPath": "/handbook/Vue/router.html",
+      "relativePath": "handbook/Vue/router.md",
+      "key": "v-3b17530e",
+      "path": "/handbook/Vue/router.html",
+      "headers": [
+        {
+          "level": 2,
+          "title": "vue官方版router",
+          "slug": "vue官方版router"
+        },
+        {
+          "level": 2,
+          "title": "自己实现一个VueRouter",
+          "slug": "自己实现一个vuerouter"
+        },
+        {
+          "level": 3,
+          "title": "VueRouter构造函数的实现",
+          "slug": "vuerouter构造函数的实现"
+        },
+        {
+          "level": 3,
+          "title": "在Vue实例对象中混入Vue-Router",
+          "slug": "在vue实例对象中混入vue-router"
+        }
+      ],
+      "lastUpdated": "2024/11/17 下午11:09:34",
+      "lastUpdatedTimestamp": 1731856174000
+    },
+    {
+      "title": "面试题: 你会写发布订阅吗？",
+      "frontmatter": {
+        "title": "面试题: 你会写发布订阅吗？",
+        "date": "2022-12-08T00:00:00.000Z",
+        "author": "Wang",
+        "tags": [
+          "发布订阅"
+        ],
+        "categories": [
+          "andition"
+        ],
+        "isShowComments": true,
+        "subSidebar": "auto"
+      },
+      "regularPath": "/handbook/andition/fabudingyue.html",
+      "relativePath": "handbook/andition/fabudingyue.md",
+      "key": "v-696e62d8",
+      "path": "/handbook/andition/fabudingyue.html",
+      "headers": [
+        {
+          "level": 2,
+          "title": "2.1 具体实现",
+          "slug": "_2-1-具体实现"
+        }
+      ],
+      "lastUpdated": "2024/11/17 下午11:09:34",
+      "lastUpdatedTimestamp": 1731856174000
+    },
+    {
+      "title": "数组扁平化AND对象扁平化",
+      "frontmatter": {
+        "title": "数组扁平化AND对象扁平化",
+        "date": "2022-12-09T00:00:00.000Z",
+        "author": "Wang",
+        "tags": [
+          "扁平化"
+        ],
+        "categories": [
+          "andition"
+        ],
+        "isShowComments": true,
+        "subSidebar": "auto"
+      },
+      "regularPath": "/handbook/andition/bianpinghua.html",
+      "relativePath": "handbook/andition/bianpinghua.md",
+      "key": "v-29481c74",
+      "path": "/handbook/andition/bianpinghua.html",
+      "headers": [
+        {
+          "level": 2,
+          "title": "2.1 flat()方法",
+          "slug": "_2-1-flat-方法"
+        },
+        {
+          "level": 2,
+          "title": "2.2 reduce() 方法+递归",
+          "slug": "_2-2-reduce-方法-递归"
+        },
+        {
+          "level": 2,
+          "title": "2.3 不使用递归",
+          "slug": "_2-3-不使用递归"
+        }
+      ],
+      "lastUpdated": "2024/11/17 下午11:09:34",
+      "lastUpdatedTimestamp": 1731856174000
     },
     {
       "title": "在写vue的项目中为什么index不能做key使用？",
@@ -974,7 +1120,7 @@ export const siteData = {
       },
       "regularPath": "/handbook/Vue/",
       "relativePath": "handbook/Vue/index.md",
-      "key": "v-1fd58c02",
+      "key": "v-7812ddef",
       "path": "/handbook/Vue/",
       "headers": [
         {
@@ -1007,99 +1153,9 @@ export const siteData = {
           "title": "demo2",
           "slug": "demo2"
         }
-      ]
-    },
-    {
-      "title": "数组扁平化AND对象扁平化",
-      "frontmatter": {
-        "title": "数组扁平化AND对象扁平化",
-        "date": "2022-12-09T00:00:00.000Z",
-        "author": "Wang",
-        "tags": [
-          "扁平化"
-        ],
-        "categories": [
-          "andition"
-        ],
-        "isShowComments": true,
-        "subSidebar": "auto"
-      },
-      "regularPath": "/handbook/andition/bianpinghua.html",
-      "relativePath": "handbook/andition/bianpinghua.md",
-      "key": "v-7e563884",
-      "path": "/handbook/andition/bianpinghua.html",
-      "headers": [
-        {
-          "level": 2,
-          "title": "2.1 flat()方法",
-          "slug": "_2-1-flat-方法"
-        },
-        {
-          "level": 2,
-          "title": "2.2 reduce() 方法+递归",
-          "slug": "_2-2-reduce-方法-递归"
-        },
-        {
-          "level": 2,
-          "title": "2.3 不使用递归",
-          "slug": "_2-3-不使用递归"
-        }
-      ]
-    },
-    {
-      "title": "你知道Vue中router实现原理吗?",
-      "frontmatter": {
-        "title": "你知道Vue中router实现原理吗?",
-        "date": "2022-10-10T00:00:00.000Z",
-        "author": "Wang",
-        "tags": [
-          "router"
-        ],
-        "categories": [
-          "Vue"
-        ],
-        "isShowComments": true,
-        "subSidebar": "auto"
-      },
-      "regularPath": "/handbook/Vue/router.html",
-      "relativePath": "handbook/Vue/router.md",
-      "key": "v-82bfd1c4",
-      "path": "/handbook/Vue/router.html",
-      "headers": [
-        {
-          "level": 2,
-          "title": "vue官方版router",
-          "slug": "vue官方版router"
-        },
-        {
-          "level": 2,
-          "title": "自己实现一个VueRouter",
-          "slug": "自己实现一个vuerouter"
-        },
-        {
-          "level": 3,
-          "title": "VueRouter构造函数的实现",
-          "slug": "vuerouter构造函数的实现"
-        },
-        {
-          "level": 3,
-          "title": "在Vue实例对象中混入Vue-Router",
-          "slug": "在vue实例对象中混入vue-router"
-        }
-      ]
-    },
-    {
-      "title": "这是我的简历",
-      "frontmatter": {
-        "title": "这是我的简历",
-        "date": "2023-02-15T20:48:00.000Z",
-        "sidebar": "auto",
-        "sticky": 1
-      },
-      "regularPath": "/views/Resume/resume.html",
-      "relativePath": "views/Resume/resume.md",
-      "key": "v-14043cc4",
-      "path": "/views/Resume/resume.html"
+      ],
+      "lastUpdated": "2024/11/17 下午11:09:34",
+      "lastUpdatedTimestamp": 1731856174000
     },
     {
       "title": "关于作者",
@@ -1110,7 +1166,7 @@ export const siteData = {
       },
       "regularPath": "/views/About/author.html",
       "relativePath": "views/About/author.md",
-      "key": "v-a32dc94c",
+      "key": "v-525e934a",
       "path": "/views/About/author.html",
       "headers": [
         {
@@ -1134,7 +1190,24 @@ export const siteData = {
           "slug": "联系我"
         }
       ],
-      "excerpt": ""
+      "excerpt": "",
+      "lastUpdated": "2024/11/17 下午11:09:34",
+      "lastUpdatedTimestamp": 1731856174000
+    },
+    {
+      "title": "这是我的简历",
+      "frontmatter": {
+        "title": "这是我的简历",
+        "date": "2023-02-15T20:48:00.000Z",
+        "sidebar": "auto",
+        "sticky": 1
+      },
+      "regularPath": "/views/Resume/resume.html",
+      "relativePath": "views/Resume/resume.md",
+      "key": "v-df090e98",
+      "path": "/views/Resume/resume.html",
+      "lastUpdated": "2024/11/17 下午11:09:34",
+      "lastUpdatedTimestamp": 1731856174000
     },
     {
       "title": "面试版简化Promise的实现",
@@ -1153,35 +1226,10 @@ export const siteData = {
       },
       "regularPath": "/handbook/andition/promise.html",
       "relativePath": "handbook/andition/promise.md",
-      "key": "v-5f3aa964",
-      "path": "/handbook/andition/promise.html"
-    },
-    {
-      "title": "面试题: 你会写发布订阅吗？",
-      "frontmatter": {
-        "title": "面试题: 你会写发布订阅吗？",
-        "date": "2022-12-08T00:00:00.000Z",
-        "author": "Wang",
-        "tags": [
-          "发布订阅"
-        ],
-        "categories": [
-          "andition"
-        ],
-        "isShowComments": true,
-        "subSidebar": "auto"
-      },
-      "regularPath": "/handbook/andition/fabudingyue.html",
-      "relativePath": "handbook/andition/fabudingyue.md",
-      "key": "v-2056eaa4",
-      "path": "/handbook/andition/fabudingyue.html",
-      "headers": [
-        {
-          "level": 2,
-          "title": "2.1 具体实现",
-          "slug": "_2-1-具体实现"
-        }
-      ]
+      "key": "v-a2f10558",
+      "path": "/handbook/andition/promise.html",
+      "lastUpdated": "2024/11/17 下午11:09:34",
+      "lastUpdatedTimestamp": 1731856174000
     },
     {
       "title": "快速上手",
@@ -1191,7 +1239,7 @@ export const siteData = {
       },
       "regularPath": "/views/other/guide.html",
       "relativePath": "views/other/guide.md",
-      "key": "v-1e4f5d4a",
+      "key": "v-27bbdd8c",
       "path": "/views/other/guide.html",
       "headers": [
         {
@@ -1224,7 +1272,9 @@ export const siteData = {
           "title": "License",
           "slug": "license"
         }
-      ]
+      ],
+      "lastUpdated": "2024/11/17 下午11:09:34",
+      "lastUpdatedTimestamp": 1731856174000
     },
     {
       "frontmatter": {
@@ -1265,15 +1315,6 @@ export const siteData = {
     {
       "frontmatter": {
         "layout": "Tag",
-        "title": "Object Tags"
-      },
-      "regularPath": "/tag/Object/",
-      "key": "v-2393e274",
-      "path": "/tag/Object/"
-    },
-    {
-      "frontmatter": {
-        "layout": "Tag",
         "title": "Array Tags"
       },
       "regularPath": "/tag/Array/",
@@ -1283,11 +1324,29 @@ export const siteData = {
     {
       "frontmatter": {
         "layout": "Tag",
+        "title": "Object Tags"
+      },
+      "regularPath": "/tag/Object/",
+      "key": "v-2393e274",
+      "path": "/tag/Object/"
+    },
+    {
+      "frontmatter": {
+        "layout": "Tag",
         "title": "ES6 Tags"
       },
       "regularPath": "/tag/ES6/",
       "key": "v-3257dcde",
       "path": "/tag/ES6/"
+    },
+    {
+      "frontmatter": {
+        "layout": "Tag",
+        "title": "继承 Tags"
+      },
+      "regularPath": "/tag/%E7%BB%A7%E6%89%BF/",
+      "key": "v-c784ecce",
+      "path": "/tag/继承/"
     },
     {
       "frontmatter": {
@@ -1319,15 +1378,6 @@ export const siteData = {
     {
       "frontmatter": {
         "layout": "Tag",
-        "title": "继承 Tags"
-      },
-      "regularPath": "/tag/%E7%BB%A7%E6%89%BF/",
-      "key": "v-c784ecce",
-      "path": "/tag/继承/"
-    },
-    {
-      "frontmatter": {
-        "layout": "Tag",
         "title": "八股文 Tags"
       },
       "regularPath": "/tag/%E5%85%AB%E8%82%A1%E6%96%87/",
@@ -1346,11 +1396,20 @@ export const siteData = {
     {
       "frontmatter": {
         "layout": "Tag",
-        "title": "vue Tags"
+        "title": "router Tags"
       },
-      "regularPath": "/tag/vue/",
-      "key": "v-322a45da",
-      "path": "/tag/vue/"
+      "regularPath": "/tag/router/",
+      "key": "v-4081041c",
+      "path": "/tag/router/"
+    },
+    {
+      "frontmatter": {
+        "layout": "Tag",
+        "title": "发布订阅 Tags"
+      },
+      "regularPath": "/tag/%E5%8F%91%E5%B8%83%E8%AE%A2%E9%98%85/",
+      "key": "v-1d861698",
+      "path": "/tag/发布订阅/"
     },
     {
       "frontmatter": {
@@ -1364,11 +1423,11 @@ export const siteData = {
     {
       "frontmatter": {
         "layout": "Tag",
-        "title": "router Tags"
+        "title": "vue Tags"
       },
-      "regularPath": "/tag/router/",
-      "key": "v-4081041c",
-      "path": "/tag/router/"
+      "regularPath": "/tag/vue/",
+      "key": "v-322a45da",
+      "path": "/tag/vue/"
     },
     {
       "frontmatter": {
@@ -1378,15 +1437,6 @@ export const siteData = {
       "regularPath": "/tag/%E9%9D%A2%E8%AF%95%E9%A2%98/",
       "key": "v-19493022",
       "path": "/tag/面试题/"
-    },
-    {
-      "frontmatter": {
-        "layout": "Tag",
-        "title": "发布订阅 Tags"
-      },
-      "regularPath": "/tag/%E5%8F%91%E5%B8%83%E8%AE%A2%E9%98%85/",
-      "key": "v-1d861698",
-      "path": "/tag/发布订阅/"
     },
     {
       "frontmatter": {
